@@ -4,7 +4,6 @@
   I am a Systems Engineering student passionate about software development, game design, and creating interactive experiences.
   Here you can find my academic projects and personal work!
 </p>
-
 ---
 
 ### 🧑‍💻 About Me
