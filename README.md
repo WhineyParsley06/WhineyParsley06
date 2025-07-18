@@ -38,7 +38,7 @@
 
 ### 📫 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/tu-linkedin" target="blank">
+  <a href="[https://linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/david-valderrama-mosquera-game-developer/)" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:deivid870@hotmail.com">
