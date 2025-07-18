@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Valderrama</h1>
-<h3 align="center">A passionate Systems Engineering Student & Software Developer</h3>
+<h3 align="center">A passionate Systems Engineering Student & Game Developer</h3>
 
 ---
 
@@ -38,7 +38,7 @@
 
 ### 📫 Connect with Me
 <p>
-  <a href="[https://linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/david-valderrama-mosquera-game-developer/)" target="blank">
+  <a href="https://www.linkedin.com/in/david-valderrama-mosquera-game-developer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:deivid870@hotmail.com">
